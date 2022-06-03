@@ -1,6 +1,6 @@
 ## Welcome to Chen Minjie's personal academic homepage
 
-You can use the [editor on GitHub](https://github.com/chenminjie666/chenminjie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I received my bachelor's degree in automation from Hunan University of Arts and Sciences in 2022 (with Li Jianying as my supervisor). Now I am studying in The Optoelectronic Information Engineering major of School of Physical and Electronic Engineering of Shanxi University (with Dong Lei as my supervisor).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
