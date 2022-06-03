@@ -2,15 +2,13 @@
 
 I received my bachelor's degree in automation from Hunan University of Arts and Sciences in 2022 (with Li Jianying as my supervisor). Now I am studying in The Optoelectronic Information Engineering major of School of Physical and Electronic Engineering of Shanxi University (with Dong Lei as my supervisor).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current research interests include photoelectric instrument, precision measurement, gas sensor.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+2015.9 - 2018.6，Linxiang No. 1 Middle School in Hunan Province
+2018.9 - 2022.06，Hunan University of Arts and Sciences，School of Computer & Electrical Engineering，Bachelor，Superviser Prof.Jian-Ying Li.
+2022.9 - 2025.06，Shanxi University，School of Physical & Electronic Engineering，Master，Superviser Prof.Lei Dong.
 # Header 1
 ## Header 2
 ### Header 3
