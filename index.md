@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chen Minjie's personal academic homepage
 
 You can use the [editor on GitHub](https://github.com/chenminjie666/chenminjie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
